@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/webymz/reactjs-.git",
-  "name": "react-tutorial",
+  "homepage": "https://taniarascia.github.io/reactjs-",
+  "name": "reactjs-",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,6 +26,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.0.1",
+    "gulp": "^4.0.0"
   }
 }
