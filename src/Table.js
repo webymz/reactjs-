@@ -7,7 +7,6 @@ const TableHeader = () => {
                 <th>Name</th>
                 <th>Job</th>
                 <th>remove</th>
-                <th>测试部署发布</th>
             </tr>
         </thead>
     )

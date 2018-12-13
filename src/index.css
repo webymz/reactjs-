@@ -12,3 +12,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+#root table{ width: 100%;}
+#root table thead th{
+  width: 33.33333333%;
+}
+#root table tbody td{
+   text-align: center;
+}
+#root form{
+  text-align: center;
+  margin-top: 20px; 
+}
+#root form input{
+  margin: 20px; 
+}
